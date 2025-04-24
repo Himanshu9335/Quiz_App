@@ -29,11 +29,7 @@ A simple and interactive Android quiz application built with Kotlin. This app al
 
 ### Installation
 
-1. **Clone the Repository**:
-
-   ```bash
-   https://github.com/Truehars/QuizApp-using-kotlin.git
-   ```
+1. **Clone the Repository**
 
 2. **Open in Android Studio**:
 
